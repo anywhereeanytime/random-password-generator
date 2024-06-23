@@ -1,0 +1,114 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+#root,
+#__next {
+  isolation: isolate;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background: #1f2937;
+  color: white;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 10px;
+}
+
+@media screen {
+}
+
+h1 {
+  font-family: "Karla", sans-serif;
+  font-weight: 800;
+  font-size: 2.5rem;
+  line-height: 40px;
+  width: 360px;
+  letter-spacing: -1px;
+  margin-bottom: 10px;
+}
+
+h1 span {
+  color: #4adf86;
+}
+
+p {
+  color: #d5d4d8;
+  margin-bottom: 20px;
+}
+
+button {
+  all: unset;
+  background: #10b981;
+  padding: 9px 17px 9px 15px;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+hr {
+  align-self: stretch;
+  border: none;
+  border-top: 1px solid #2f3e53;
+}
+
+.passwords {
+  display: flex;
+  justify-content: space-between;
+  align-self: stretch;
+  gap: 10px;
+}
+
+.random-password {
+  background: #273549;
+  border-radius: 6px;
+  padding: 9px 15px;
+  color: #55f991;
+  width: 200px;
+  height: 39px;
+  text-align: center;
+}
