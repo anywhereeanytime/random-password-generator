@@ -5,7 +5,7 @@ Check out the live demo of Random Password Generator at https://anywhereeanytime
 ## Screenshots
 
 ![Main page](https://i.imgur.com/990h2K4.png)
-![Main page](https://i.imgur.com/TGfkA0s.png)
+![Main page](https://i.imgur.com/oAtt6t4.png)
 
 ## Features
 
