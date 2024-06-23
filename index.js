@@ -100,7 +100,7 @@ generateButton.addEventListener("click", function () {
     randomPass.textContent = "";
 
     for (let i = 0; i < characters.length; i++) {
-      if (randomPass.textContent.length <= 15) {
+      if (randomPass.textContent.length <= 10) {
         let randomIndex = Math.floor(Math.random() * characters.length);
         randomPass.textContent += characters[randomIndex];
       } else {
