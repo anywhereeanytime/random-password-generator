@@ -4,8 +4,8 @@ Check out the live demo of Random Password Generator at https://anywhereeanytime
 
 ## Screenshots
 
-![Main page](https://imgur.com/990h2K4)
-![Main page](https://imgur.com/TGfkA0s)
+![Main page](https://i.imgur.com/990h2K4.png)
+![Main page](https://i.imgur.com/TGfkA0s.png)
 
 ## Features
 
