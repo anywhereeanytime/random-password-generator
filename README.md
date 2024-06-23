@@ -10,4 +10,4 @@ Check out the live demo of Random Password Generator at https://anywhereeanytime
 ## Features
 
 - You can create a wonderful safe password
-- Please enjoy this website and have a good day
+- Please enjoy this website and have a good day 😊🌼
