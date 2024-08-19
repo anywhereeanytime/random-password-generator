@@ -7,6 +7,12 @@ Check out the live demo of Random Password Generator at https://anywhereeanytime
 ![Main page](https://i.imgur.com/990h2K4.png)
 ![Main page](https://i.imgur.com/oAtt6t4.png)
 
+## Technology used
+
+- HTML
+- CSS
+- JavaScript
+
 ## Features
 
 - You can create a wonderful safe password
